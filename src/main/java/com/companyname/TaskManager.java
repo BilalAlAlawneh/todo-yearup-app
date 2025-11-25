@@ -14,7 +14,6 @@ package com.companyname;
                 tasks.get(index).setDone(true);
                 return true;
             }
-            2
             return false;
         }
         public boolean deleteTask(int index) {
